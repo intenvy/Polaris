@@ -1,5 +1,5 @@
-# StarAcademy-Group1
-Graph Analysis Project.
+# Polaris
+Graph Analysis Project based on elastic search engine.
 
 ## Table of contents
 - [API Documentation](#API-Documentation)
